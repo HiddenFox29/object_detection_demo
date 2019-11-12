@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_resize</folder>
+	<filename>21.jpg</filename>
+	<path>/home/alex/Загрузки/tensorflow_train_dir/image_resize/21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>396</ymin>
+			<xmax>608</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>
